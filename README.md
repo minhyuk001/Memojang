@@ -1,0 +1,2 @@
+# Memojang
+Python Memo
